@@ -1,0 +1,1 @@
+var json_benchmark_2 = {"type":"FeatureCollection","name":"benchmark_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"eastings":222109.832,"northing":8410635.795,"title":"BM"},"geometry":{"type":"Point","coordinates":[132.423399288145845,-14.362462817248741]}}]}
